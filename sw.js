@@ -1,4 +1,4 @@
-const CACHE = 'xarxa-reviews-2.1';
+const CACHE = 'xarxa-reviews-2.2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', event => {
